@@ -1,0 +1,4 @@
+---
+# tasks file for debug
+
+- debug: msg="hello from debug role"
